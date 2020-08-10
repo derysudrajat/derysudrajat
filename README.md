@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **derysudrajat/derysudrajat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=derysudrajat&show_icons=true&theme=radical)
+
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=derysudrajat&layout=compact&theme=nightowl)
+
+<a href="https://www.instagram.com/derysudrajat" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.medium.com/@dery.io" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
