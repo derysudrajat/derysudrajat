@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 ## Hello World! I'am Dery <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+![profile views](https://gpvc.arturio.dev/derysudrajat)
+
+I'am Bachelor of Computer Science in Software Engineering Department, has a lot of experience in working on Android-based projects and teaches as an assistant professor and lab in the Mobile Development subject. I also Android Enthusiasm and currently as Mobile Developer in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+
+[![derysudrajat's github trophy](https://github-profile-trophy.vercel.app/?username=derysudrajat&row=1)](https://github.com/derysudrajat/github-profile-trophy)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=derysudrajat&show_icons=true)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=derysudrajat&layout=compact)
