@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 ![profile views](https://gpvc.arturio.dev/derysudrajat)
 
-I'am Bachelor of Computer Science in Software Engineering Department, has a lot of experience in working on Android-based projects and teaches as an assistant professor and lab in the Mobile Development subject. I also Android Enthusiasm and currently as Mobile Developer in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+I'am Bachelor of Computer Science in Software Engineering Department, has a lot of experience in working on Android-based projects and teaches as an assistant professor and lab in the Mobile Development subject. 
+- I also Android Enthusiasm and currently as Android Developer Associate at LinkAja
+- Mentor & Facilitator in Mobile Developer in Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka
+
+
 
 [![derysudrajat's github trophy](https://github-profile-trophy.vercel.app/?username=derysudrajat&row=1)](https://github.com/derysudrajat/github-profile-trophy)
 
